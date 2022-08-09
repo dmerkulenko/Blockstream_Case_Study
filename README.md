@@ -1,5 +1,5 @@
 # Blockstream Case Study
-![title](/Images/blks_logo_1920x1080.PNG)
+![title](/Images/Blockstream_Logo.png)
 
 ## Overview and Origin
 
