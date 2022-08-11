@@ -1,5 +1,6 @@
 # Blockstream Case Study
-![title](/Images/Blockstream_Logo.png|width=400px))
+![title](/Images/Blockstream_Logo.png|width=400px)
+![test image size]<img src="https://blockstream.com/img/img/blks_logo_1920x1080.png" width="400" height="790">
 
 ## Overview and Origin
 
