@@ -1,5 +1,5 @@
 # Blockstream Case Study
-![]<img src="https://blockstream.com/img/img/blks_logo_1920x1080.png" width="900" height="500">
+![title]<img src="https://blockstream.com/img/img/blks_logo_1920x1080.png" width="900" height="500">
 
 ## Overview and Origin
 
